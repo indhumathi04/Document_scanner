@@ -1,5 +1,5 @@
 # Document_scanner
-
+![scanner2](https://github.com/indhumathi04/Document_scanner/tree/main/image/scanner2.png)
 
 ![alt text](https://github.com/indhumathi04/Document_scanner/tree/main/image/scanner2.png?raw=true)
 <p align="center">
